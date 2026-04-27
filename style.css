@@ -1,0 +1,59 @@
+div{
+    background-color: chocolate;
+    background-size: 150px;
+    background-image:url(1709648537651.jpg) ;
+    text-align: center;
+    padding: 100px;
+    border-radius: 70px;
+background-repeat: repeat-y;
+
+
+background-position: bottom right;
+background-position: bottom left;
+background-attachment: fixed;
+
+
+}
+
+
+
+
+
+
+
+h1{
+    color: rgb(50, 18, 194.9);
+
+}
+.fast{
+    color: rgb(205, 23, 221);
+background-repeat: repeat-y;
+background-repeat: repeat-x;
+background-repeat: no-repeat;
+background-position: bottom right;
+background-size: 150px;
+font-size: 50px;
+background-attachment: fixed;
+
+background-color: chartreuse;
+background-position: 100px center;
+}
+
+
+
+
+
+
+.demo{
+    color: crimson;
+    font-size: 60px;
+    background-repeat: no-repeat;
+   background-position:bottom center;
+  
+background-attachment: fixed;
+
+/* shorthand */
+background:green url(1709648537651.jpg)
+no-repeat center;
+background-size: 300px;
+}
